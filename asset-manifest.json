@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-TypeScript-Introduction/static/css/main.5ce63ba1.chunk.css",
+    "main.js": "/React-TypeScript-Introduction/static/js/main.257a0240.chunk.js",
+    "main.js.map": "/React-TypeScript-Introduction/static/js/main.257a0240.chunk.js.map",
+    "runtime-main.js": "/React-TypeScript-Introduction/static/js/runtime-main.f446079f.js",
+    "runtime-main.js.map": "/React-TypeScript-Introduction/static/js/runtime-main.f446079f.js.map",
+    "static/js/2.91fe1618.chunk.js": "/React-TypeScript-Introduction/static/js/2.91fe1618.chunk.js",
+    "static/js/2.91fe1618.chunk.js.map": "/React-TypeScript-Introduction/static/js/2.91fe1618.chunk.js.map",
+    "index.html": "/React-TypeScript-Introduction/index.html",
+    "precache-manifest.7ec43b431aeaa17afdfe51d48322bf06.js": "/React-TypeScript-Introduction/precache-manifest.7ec43b431aeaa17afdfe51d48322bf06.js",
+    "service-worker.js": "/React-TypeScript-Introduction/service-worker.js",
+    "static/css/main.5ce63ba1.chunk.css.map": "/React-TypeScript-Introduction/static/css/main.5ce63ba1.chunk.css.map",
+    "static/media/logo.svg": "/React-TypeScript-Introduction/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f446079f.js",
+    "static/js/2.91fe1618.chunk.js",
+    "static/css/main.5ce63ba1.chunk.css",
+    "static/js/main.257a0240.chunk.js"
+  ]
+}
