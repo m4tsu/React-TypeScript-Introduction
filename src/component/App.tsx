@@ -33,6 +33,7 @@ const App: FC = () => {
           Learn React
         </a>
       </header>
+      <Counter/>
       <div>
         <input value={name} onChange={changeName}></input>
         <input type='number' value={time} onChange={changeTime}></input>
